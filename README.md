@@ -1,7 +1,7 @@
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zahirmasoodi.zahirmasoodi&color=00cf00)
-![views](https://gpvc.arturio.dev/Zahirmasoodi)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zahir-dct.zahir-dct&color=00cf00)
+![views](https://gpvc.arturio.dev/Zahir-dct)
 ![](https://i.imgur.com/waxVImv.png)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
